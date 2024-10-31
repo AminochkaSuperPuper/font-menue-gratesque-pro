@@ -1,0 +1,267 @@
+html {
+    background: #83CDC0;
+    font-family: "Menoe-Grotesque-Pro";
+  }
+
+  body {
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.text {
+    font-family: var(Menoe-Grotesque-Pro-Italic);
+    width: 1440px;
+    text-align: center;
+    padding-top: 220px;
+    background-color: #83CDC0;
+}
+
+.first_screen {
+    height: 1120p;
+    width: 1803;
+    position: relative;
+    left: 50px;
+}
+
+.font-1 {
+    height: 172px;
+    width: 930px;
+    position: relative;
+    left: 230px;
+    bottom: 650px;
+}
+
+.font-2 {
+    height: 172px;
+    width: 930.6px;
+    position: relative;
+    left: 65px;
+    bottom: 761px;
+
+}
+
+  
+.font-3 {
+    height: 172px;
+    width: 930px;
+    position: relative;
+    bottom: 792px;
+    left: 394px;
+}
+
+
+.text-1 {
+    font-family: "Menoe-Grotesque-Pro";
+    height: 12px;
+    width: 12px;
+    bottom: 570px;
+    right: 210px;
+    color: #454545;
+    position: relative;
+    font-size: 135px;
+}
+
+.text-2 {
+    font-family: "Menoe-Grotesque-Pro-Italic";
+    height: 63px;
+    width: 277px;
+    bottom: 435px;
+    right: 110px;
+    color: #020064;
+    position: relative;
+    font-size: 65px;
+}
+
+.text-3 {
+    font-family: "Menoe-Grotesque-Pro-Italic";
+    height: 85px;
+    width: 1174px;
+    bottom: 405px;
+    left: 78px;
+    color: #020064;
+    position: relative;
+    font-size: 65px;
+}
+
+.text-4 {
+    font-family: "Menoe-Grotesque-Pro-Italic";
+    height: 85px;
+    width: 106px;
+    bottom: 387px;
+    right: 250px;
+    color: #020064;
+    position: relative;
+    font-size: 65px;
+}
+
+.text-5 {
+    font-family: "Menoe-Grotesque-Pro-Italic";
+    height: 86px;
+    width: 109px;
+    bottom: 475px;
+    left: 470px;
+    color: #020064;
+    position: relative;
+    font-size: 65px;
+}
+
+.text-6 {
+    font-family: "Menoe-Grotesque-Pro-Italic";
+    height: 85px;
+    width: 374px;
+    bottom: 455px;
+    right: 200px;
+    color: #020064;
+    position: relative;
+    font-size: 65px;
+}
+
+.text-7 {
+    font-family: "Menoe-Grotesque-Pro-Italic";
+    height: 85px;
+    width: 193px;
+    bottom: 535px;
+    left: 475px;
+    color: #020064;
+    position: relative;
+    font-size: 65px;
+}
+
+.text-8 {
+    font-family: "Menoe-Grotesque-Pro-Italic";
+    height: 85px;
+    width: 800px;
+    left: 150px;
+    bottom: 536px;
+    color: #020064;
+    position: relative;
+    font-size: 65px;
+}
+
+.text-9 {
+    font-family: "Menoe-Grotesque-Pro-Italic";
+    height: 85px;
+    width: 1174px;
+    bottom: 530px;
+    left: 150px;
+    color: #020064;
+    position: relative;
+    font-size: 65px;
+}
+
+.lines {
+    width: 1000px;
+    height: 85px;
+    position: relative;
+    margin-bottom: -1430px;
+    margin-left: -1000px;
+}
+
+.text-10 {
+    font-family:"Menoe-Grotesque-Pro";
+    height: 78px;
+    width: 146px;
+    bottom: 1080px;
+    right: 505px;
+    color: #454545;
+    position: relative;
+    font-size: 60px;
+}
+
+.text-11 {
+    font-family:"Menoe-Grotesque-Pro";
+    height: 78px;
+    width: 146px;
+    bottom: 969px;
+    right: 505px;
+    color: #454545;
+    position: relative;
+    font-size: 60px;
+}
+
+.text-12 {
+    font-family:"Menoe-Grotesque-Pro";
+    height: 78px;
+    width: 146px;
+    bottom: 1035px;
+    left: 187px;
+    color: #454545;
+    position: relative;
+    font-size: 60px;
+}
+
+.text-13 {
+    font-family:"Menoe-Grotesque-Pro";
+    height: 78px;
+    width: 146px;
+    bottom: 1015px;
+    left: 152px;
+    color: #454545;
+    position: relative;
+    font-size: 60px;
+}
+
+.pens {
+ position: relative;
+  width: 50px;
+ 
+  margin-top: -950px;
+  margin-right: 1600px;
+    
+}
+
+.листрусскийязык {
+position: relative;
+width: 50px;
+ 
+margin-top: -400px;
+margin-right: 1500px;
+  
+}
+
+.ластик {
+    position: relative;
+    width: 100px;
+    height: 70px;
+    left: 36px;
+    bottom: 200px;
+}
+
+.text-20 {
+    font-family: "Menoe-Grotesque-Pro-Italic";
+    height: 85px;
+    width: 1174px;
+    bottom: 1675px;
+    left: 330px;
+    color: #020064;
+    position: relative;
+    font-size: 50px;
+    rotate: 5deg;
+}
+
+
+
+.математика {
+    position: relative;
+    width: 100px;
+    height: 70px;
+    bottom: 500px;
+    right: 500px;
+}
+
+.англ {
+    position: relative;
+    width: 50px;
+     
+    margin-top: -0px;
+    margin-right: 1475px;
+    margin-top: 300px;
+      
+    }
+
+.чел {
+    position: relative;
+    bottom: 50px;
+}
